@@ -5,6 +5,7 @@
 * [젠킨스-ubuntu 설치-설치](https://devje.tistory.com/233)
 * port 변경
 <pre>
+  
 <code>
   $sudo systemctl stop jenkins
   $sudo systemctl disable jenkins
